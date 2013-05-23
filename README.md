@@ -1,4 +1,5 @@
-align-plugin
-============
+## align-plugin
 
-KISSY Align Plugin
+* 版本：1.0
+
+

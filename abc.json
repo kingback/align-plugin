@@ -1,0 +1,13 @@
+{
+    "name": "align-plugin",
+    "version": "1.0",
+    "desc": "定位插件",
+    "cover": "",
+    "author": {
+        "name": "huya",
+        "email": "ningzbruc@gmail.com",
+        "page": "https://github.com/kingback"
+    },
+    "type": "kissy-pie",
+    "type-url": "http://abc.alibaba-inc.com/r/kissy-pie"
+}
